@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>mount &#8211; Gaurav Mobile</title>
+	<atom:link href="/tag/mount/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Gaurav Mobile Blog , Mobile Review, Mobile tech releted site.</description>
+	<lastBuildDate>Sat, 15 May 2021 01:34:44 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6.4</generator>
+	<item>
+		<title>Ham Radio Cellular Antenna Mount Concerns</title>
+		<link>/ham-radio-cellular-antenna-mount-concerns/</link>
+		
+		<dc:creator><![CDATA[]]></dc:creator>
+		<pubDate>Sat, 15 May 2021 01:07:21 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[antenna]]></category>
+		<category><![CDATA[blog]]></category>
+		<category><![CDATA[cellular]]></category>
+		<category><![CDATA[concerns]]></category>
+		<category><![CDATA[considerations]]></category>
+		<category><![CDATA[ham]]></category>
+		<category><![CDATA[mobile]]></category>
+		<category><![CDATA[mount]]></category>
+		<category><![CDATA[radio]]></category>
+		<guid isPermaLink="false">/2021/05/15/ham-radio-mobile-antenna-mount-considerations/</guid>
+
+					<description><![CDATA[Cellular communications antennas are available in all totally different dimensions and shapes. In addition they are designed for operation on numerous frequencies normally divided into [...]]]></description>
+										<content:encoded><![CDATA[<p>Cellular communications antennas are available in all totally different dimensions and shapes. In addition they are designed for operation on numerous frequencies normally divided into numerous communications providers. Some the communications providers embody the enterprise band, maritime cell, residents band (CB radio), and so forth.. Whatever the frequency or band of the antenna there are a number of frequent issues to assume via when contemplating each the kind and site of cell radio antenna mounts. This text will overview the most important points and focus on choices to think about.</p>
+<p>Every sort of antenna and mount must have a superb floor and a superb floor airplane. Whereas the necessity for this can differ by frequency, having a superb floor and floor airplane is desired for each frequency in sensible phrases. Many base station antennas use the bodily floor, enhanced via the usage of floor radial wires or not, to assist type a take-off level for radio waves being transmitted. On a automotive the flat portion of the highest of a automotive varieties a floor airplane for a cell antenna. Location of the antenna on that floor airplane turns into essential. A middle location produces probably the most practically spherical sample. A location in direction of one path produces an elongated sample in the other way with much less effectiveness within the path in direction of the antenna. Whereas the middle of the roof of a automotive generally is a nice location for a cell antenna mount it could be troublesome to work the coaxial cable again to the radio. A better resolution from the coaxial cable&#8217;s perspective could be the trunk. Many individuals go for a trunk lip mount. A mount within the heart of the roof requires drilling a gap within the car whereas a trunk lip mount makes use of set screws to carry the mount to the lip of the trunk.</p>
+<p>Radiation of as a lot radio frequency vitality as potential is each a superb factor and an issue. If the antenna is mounted within the heart of the roof, the roof acts as a protect and prevents your physique from being radiated by the antenna to the extent sensible. If the antenna is mounted on the trunk lip then it&#8217;s spraying radio frequency vitality proper on the passengers of the automotive proper via the again window of the automotive. The quantity of radio frequency vitality and potential threat varies with frequency and quantity of energy used in addition to period of time used.</p>
+<p>Different choices exist and a overview of catalogs and blogs on the web can present good high quality footage and overview of the benefits and downsides of lots of them. Anticipate finding antennas mounted on the gutters of the roof, numerous sides and heart of the trunk, facet panels of a car, entrance bumpers, again bumpers and even the engine hood. Do not forget that there is no such thing as a 100% excellent resolution and one of the best resolution for a specific particular person will depend upon the kind of antenna, sort of auto, funds, technical skill, time, endurance, and so forth..</p>
+<p>No matter location and form of the bottom airplane, a superb radio frequency (RF) floor is required. Consider this instance &#8211; if detrimental radio frequency vitality cannot movement to floor optimistic radio frequency cannot movement off of the radiating ingredient of the antenna. I usually inform new ham radio operators there are three issues you must learn about cell antenna mounts &#8211; grounds, grounds and grounds!</p>
+<p>As soon as you identify the situation of the antenna mount and the best way to obtain a superb radio frequency floor (normally with a large strap or mesh &#8211; radio frequency flows alongside the OUTSIDE of steel not like electrical energy) then take into account the TYPE of cell antenna mount. Do not forget that serps and blogs are great issues for researching varieties and places of antenna mounts. Anybody catalog or web site seemingly won&#8217;t have each possible sort of antenna mount. Additionally do not forget that each antenna mount could have each benefits and downsides. I&#8217;ll overview an instance of two or three mounts and you&#8217;ll seemingly get the thought.</p>
+<p>Think about the traditional ball and huge spring mount. For a big whip sort of antenna this generally is a good however maybe not excellent alternative relying in your preferences. Additionally take into account a much less sturdy however much less &#8220;springy&#8221; fastened trunk lip mount. Now &#8211; in the event you hit a big tree department with that whip type antenna whereas driving there&#8217;ll seemingly be totally different outcomes with these two mounts. The big spring on the ball and spring mount could have a whole lot of &#8220;give&#8221; and can permit the whip to remain connected to the mount with the mount staying connected to the car whereas the whip slides beneath the tree department. A set mount connected to the lip of the trunk with a couple of set screws seemingly will get ripped off of the trunk and perhaps the trunk lip will get bent.</p>
+<p>There are disadvantages to the sturdy ball and spring mount which requires 4 good-sized holes within the physique of the car to mount it. One drawback apart from potential rust and discount in trade-in worth is the movement of the whip whereas driving. A mount with out a spring will end in a steadier whip than one with a spring. Keep in mind &#8211; the heavier the antenna the heavier the mount. Bigger ham radio antennas are taken by novice radio operators to steel fabricating outlets to be personalized. Additionally ask your native auto vendor for concepts in addition to anybody that works with trailer manufacturing, and so forth..</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
